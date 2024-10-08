@@ -1,4 +1,8 @@
+nome = 'Cauan'
+#Função Print
+print(nome)
 
-def soma(a,b):
-    return a+b
-print(soma(1,2))
+#Contatenação
+print("Bem Vindo ", nome)
+
+#Tipos de Dados
